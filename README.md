@@ -1,4 +1,4 @@
-<center><img src="https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true"></center>
+<img src="https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true">
 
 > 本账号头像来自于 [iconfont-public](https://www.iconfont.cn/illustrations/detail?cid=34274)，感谢阿里巴巴插画库的支持！
 
