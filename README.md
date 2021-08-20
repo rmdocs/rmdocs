@@ -1,4 +1,4 @@
-[![img](https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true)](https://github.com/rmdocs/rmdocs/blob/main/code.png?raw=true)
+<center><img src="https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true"></center>
 
 > 本账号头像来自于 [iconfont-public](https://www.iconfont.cn/illustrations/detail?cid=34274)，感谢阿里巴巴插画库的支持！
 
@@ -22,3 +22,4 @@ QQ：926444949（广告勿扰，只接受编程问题，备注编程开发即可
 
 ## 📈 GitHub Stats
 
+![rmdocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdocs&show_icons=true&theme=radical)
