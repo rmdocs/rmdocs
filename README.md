@@ -12,7 +12,7 @@ QQ：926444949
 
 ## ✍ Blog & Writing
 
-除了写本仓库的文档以为我还专门维护了一个在线Vuepress文档，你可以到 [fspgdocs.top](https://fspgdocs.top/) 查看，本站同时托管于github使用jsdelivr！
+除了写本仓库的文档以为我还专门维护了一个在线Vuepress文档，你可以到 [ezcrawler.cn](https://www.ezcrawler.cn/) 查看，本站同时托管于github使用jsdelivr！
 
 ## 🔧 Technologies & Tools
 
