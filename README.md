@@ -80,12 +80,6 @@
 
 github的pages也可以实现但是dns污染较严重！可以自行搜索使用！
 
-## TODO
-
-<!-- TODO-IST:START -->
-
-<!-- TODO-IST:END -->
-
 
 
 ## 贡献
