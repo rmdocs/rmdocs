@@ -4,7 +4,7 @@
 
 # Hello,folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-我是 icbug,本账号的所有者。我来自于辽宁大连。 你可以在推特上找到我 [![Twitter](https://camo.githubusercontent.com/f649fe6a8f323f310d270b1f081e988cb21f240c4627baf7f92639f3931e31d5/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67)](https://twitter.com/icbugcoder)，同时你也可以使用QQ来找到我.
+我是 icbug,本账号的所有者。我来自于辽宁省大连市。 你可以在推特上找到我 [![Twitter](https://camo.githubusercontent.com/f649fe6a8f323f310d270b1f081e988cb21f240c4627baf7f92639f3931e31d5/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67)](https://twitter.com/icbugcoder)，同时你也可以使用QQ来找到我.
 
 QQ：926444949
 
