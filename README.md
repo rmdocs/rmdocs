@@ -1,29 +1,86 @@
-<img src="https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true">
+![](https://img.recode.fun/img-2022/未标题-1.png?)
 
-> 本账号头像来自于 [iconfont-public](https://www.iconfont.cn/illustrations/detail?cid=34274)，感谢阿里巴巴插画库的支持！
+<center><h1>icbugcoder🎉❤️🧡💛💚💙💜</h1></center>
 
-# Hello,folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+​																**Hello，大家好我是icbugcoder！日常更新代码中，一个在拼命学习的学生:man_student:**
 
-我是 icbug,本账号的所有者。我来自于辽宁省大连市。 你可以在推特上找到我 [![Twitter](https://camo.githubusercontent.com/f649fe6a8f323f310d270b1f081e988cb21f240c4627baf7f92639f3931e31d5/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67)](https://twitter.com/icbugcoder)，同时你也可以使用QQ来找到我.
+![img](https://dl4.weshineapp.com/gif/20210628/87aedc97c350d5d9d1886964ec7f2acf.gif?f=micro_)
 
-QQ：926444949
+## 本人社交账号
 
-本人的个人开发账号：https://github.com/icbug
+<a href ="https://github.com/icbug"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>【个人github学习使用仓库，内容多为fork的框架】
 
-## ✍ Blog & Writing
+<a href ="https://www.kaggle.com/icbugcoder"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>【正在学习数据分析中...并未参加过多比赛！】
 
-除了写本仓库的文档以为我还专门维护了一个在线Vuepress文档，你可以到 [ezcrawler.cn](https://www.ezcrawler.cn/) 查看，本站同时托管于github使用jsdelivr！
+<a href ="https://leetcode.cn/u/icbugcoder"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>【最近没刷算法...】
 
-## 🔧 Technologies & Tools
+## 插图
 
-[![img](https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/2cf4bff51ce41f2d94f2546dedba012d03450cd824bf3be4d78d989a80953680/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d496e74656c6c694a5f494445412d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/2cf4bff51ce41f2d94f2546dedba012d03450cd824bf3be4d78d989a80953680/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d496e74656c6c694a5f494445412d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/d38e6cc39779250a2835bf8ed3a72d10dbe3b05fa6527baa3f6f1e8e8bd056bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/d38e6cc39779250a2835bf8ed3a72d10dbe3b05fa6527baa3f6f1e8e8bd056bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/a6739f2a813cbc084c3d40289607c0836a37c25c4a05965554232b03aeb652fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d476f6c616e672d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676f266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/a6739f2a813cbc084c3d40289607c0836a37c25c4a05965554232b03aeb652fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d476f6c616e672d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676f266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/c50f693ebad075fe01f4a39fa439170d806a4f5165b1b2d9c8e173aa955032b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d616b652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636d616b65266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/c50f693ebad075fe01f4a39fa439170d806a4f5165b1b2d9c8e173aa955032b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d616b652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636d616b65266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/88fb8d17286acf80d9b728755bd1fdb7666133274bd9ab77b7fccb42e8c26da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/88fb8d17286acf80d9b728755bd1fdb7666133274bd9ab77b7fccb42e8c26da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/28a8243bcfea04f9747bd56d17b2fac55709bd7feddee5ad9a6c8a741816ac38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/28a8243bcfea04f9747bd56d17b2fac55709bd7feddee5ad9a6c8a741816ac38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/d4047bcb06609e7f927d6410c3d7f2bf036fdf607bbcf2d3137fff1cbba6f43a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f737467726553514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/d4047bcb06609e7f927d6410c3d7f2bf036fdf607bbcf2d3137fff1cbba6f43a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f737467726553514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/944db9c4c535baad1d4bafa47bb1abf881d9ddf0102aae4b90a744ef770a3bbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/944db9c4c535baad1d4bafa47bb1abf881d9ddf0102aae4b90a744ef770a3bbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/bb71449b8420aad7f46a3cdef851ba4b262992658fe83bf8c65c34780ff6a583/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d4b756265726e657465732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/bb71449b8420aad7f46a3cdef851ba4b262992658fe83bf8c65c34780ff6a583/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d4b756265726e657465732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861) [![img](https://camo.githubusercontent.com/ae8fafd07efc2afdea9b548887955339de91604d8e0915d2f225f77b5512584f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d5265645f4861745f4f70656e53686966742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265642d6861742d6f70656e2d7368696674266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)](https://camo.githubusercontent.com/ae8fafd07efc2afdea9b548887955339de91604d8e0915d2f225f77b5512584f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d5265645f4861745f4f70656e53686966742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265642d6861742d6f70656e2d7368696674266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861)
+两张图均来自于pixiv插画站，使用Photoshop对其进行修剪
 
-因为本人开发工具过多不能一一展示详情请见：[stackshare](https://stackshare.io/superpythonforweb)
+需要自取
 
-## 📈 GitHub Stats
+<img src="https://img.recode.fun/img-2022/%E6%8F%92%E7%94%BB.png?!" alt="插画"  />
 
-![rmdocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdocs&show_icons=true&theme=radical&count_private=true)
+## 技术
 
-## 文档状态
+![](https://github.com/rmdocs/rmdocs/raw/main/code.png?raw=true)
 
-文档正在开发中，敬请期待
+### 我使用的操作系统
+
+如下方标签所示
+
+#### 手机系统
+
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+
+#### 电脑操作系统
+
+![](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 编程语言
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 编程技术框架
+
+#### 前端技术
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Java
+
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+#### Python
+
+神经网络yolo模型...内容不包含在内
+
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+两个网络后端框架
+
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 技术栈选型
+
+不同类型的选型，请看项目的README.md文档！文档中有标注！
+
+### 免费在线托管平台推荐
+
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+上面几个是我经常用的云托管平台，其中vercel和netlify可以在国内访问，虽然速度有些慢
+
+github的pages也可以实现但是dns污染较严重！可以自行搜索使用！
+
+## TODO
+
+<!-- TODO-IST:START -->
+
+<!-- TODO-IST:END -->
+
+
+
