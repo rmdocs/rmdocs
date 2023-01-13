@@ -1,10 +1,8 @@
-![](https://img.recode.fun/img-2022/未标题-1.png?)
-
 <center><h1>icbugcoder🎉❤️🧡💛💚💙💜</h1></center>
 
 ​																**Hello，大家好我是icbugcoder！日常更新代码中，一个在拼命学习的学生:man_student:**
 
-![img](https://img.recode.fun/img-2022/87aedc97c350d5d9d1886964ec7f2acf.gif)
+
 
 ## 本人社交账号
 
@@ -14,13 +12,6 @@
 
 <a href ="https://leetcode.cn/u/icbugcoder"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>【最近没刷算法...】
 
-## 插图
-
-两张图均来自于pixiv插画站，使用Photoshop对其进行修剪
-
-需要自取
-
-<img src="https://img.recode.fun/img-2022/%E6%8F%92%E7%94%BB.png?!" alt="插画"  />
 
 ## 技术
 
